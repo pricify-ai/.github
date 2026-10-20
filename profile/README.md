@@ -33,4 +33,9 @@ Around the clock on YouTube:
 [Memory](https://www.youtube.com/@ramsliveprices/live) ·
 [PSU Live](https://www.youtube.com/@psuliveprices/live)
 
+### Open data
+
+Every Monday, the week's prices of the 100 most popular products on each tracker, as Excel and JSON, free to use
+with credit (CC BY 4.0): **[pricify-ai/pc-hardware-prices](https://github.com/pricify-ai/pc-hardware-prices)**
+
 More at **[pricify.ai](https://pricify.ai)**.
